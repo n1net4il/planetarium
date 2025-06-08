@@ -1,3 +1,7 @@
 .vscode/
 target/
-data/*
+
+data/*.in
+data/*.out
+
+src/solve.cpp
