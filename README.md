@@ -1,3 +1,3 @@
 # Planetarium
 
-![image](https://github.com/user-attachments/assets/21206f48-1d29-4b67-88df-d9759816e9e5)
+![plana](https://github.com/user-attachments/assets/32e9584c-dcf3-41a9-b778-b9cf1c0cefe4)
